@@ -1,0 +1,11 @@
+{
+  "name": "maximelibero",
+  "version": "1.0.0",
+  "description": "Conviva js core-sdk",
+  "main": "conviva-core-sdk.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LaurenMayert/maximelibero.git"
+  },
+  "author": "VivaEmard"
+}
